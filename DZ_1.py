@@ -1,8 +1,20 @@
-namber_1 = input("Введіть перше число:")
-namber_2 = input("Введіть друге число:")
-namber_3 = input("Введіть трете число:")
+# namber = int(input("Введіть число:"))
+# namber = 1
+# namber = 2
+# namber = 3
+# namber = 4
+# sum_namber = ["1*2*3*4="]
+#
+# print(sum_namber)
 
-sum_nambers = namber_1 + namber_2 + namber_3
 
-print(sum_nambers)
+a = 1
+b = 2
+c = 3
+d = 4
+
+print(a,"*",b,"*",c,"*",d,"=", a*b*c*d)
+
+
+
 
